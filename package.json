@@ -7,6 +7,6 @@
     "url": "git://github.com/nigelzor/npm-4503-b.git"
   },
   "dependencies": {
-    "npm-4503-a": "git://github.com/nigelzor/npm-4503-a.git"
+    "npm-4503-a": "git://github.com/nigelzor/npm-4503-a.git#master"
   }
 }
